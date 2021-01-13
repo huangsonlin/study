@@ -7,7 +7,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @Author yanGe
+ * @Author huangsl
  * @Date 2021/1/11 18:16
  **/
 @Target({ElementType.FIELD})// 接口、类、枚举、注解

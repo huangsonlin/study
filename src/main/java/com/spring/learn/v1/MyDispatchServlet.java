@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @Author yanGe
+ * @Author huangsl
  * @Date 2021/1/11 17:36
  **/
 public class MyDispatchServlet extends HttpServlet {
